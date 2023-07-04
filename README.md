@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a freelance developer 🚀
 
-My currently personnal project : [Gym environnement for tetris](https://github.com/nderousseaux/gym-pytris). Later, I will use it in tensorflow for create a pro-player IA in tetris.
+My currently personnal project : [Gym environnement for tetris](https://github.com/nderousseaux/gym-pytris). And a [generic Q-Learning model](https://github.com/nderousseaux/lunarlander-v2-qlearning). Later, I will use this model for create a IA pro player at Tetris !!
 
 ### Some of my project 🚀
 - 🥾 [Lord of the trip](https://github.com/nderousseaux/lord-of-the-trip): React, VueNative, and Pyramid ! 
