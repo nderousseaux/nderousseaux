@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a freelance developer 🚀
+## Hi there 👋
 
 My currently personnal project : [Gym environnement for tetris](https://github.com/nderousseaux/gym-pytris). And a [generic Q-Learning model](https://github.com/nderousseaux/lunarlander-v2-qlearning). Later, I will use this model for create a IA pro player at Tetris !!
 
