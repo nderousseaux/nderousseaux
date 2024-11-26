@@ -15,7 +15,7 @@ I'm a freelance developer based at Strasbourg in France. I'm a fullstack develop
 - 🎓 [Educations](https://github.com/search?q=owner%3Anderousseaux+%23education&type=repositories) : Work for my education like tps, tds, etc.
 - 📽️ [Projects](https://github.com/search?q=owner%3Anderousseaux+%23project&type=repositories) : Personal project, without affiliation with my job or my education.
 - 🔬 [Experiments](https://github.com/search?q=owner%3Anderousseaux+%23experiment&type=repositories) : Some experiments I did.
-- 🏆 [Challenges](https://github.com/search?q=owner%3Anderousseaux+%23challenge&type=repositories) : Some challenges I did.
+- 🏆 [Challenges](https://github.com/search?q=owner%3Anderousseaux+%23challenge&type=repositories) : Challenges I tried to overcome.
 - 🛠️ [Scripts](https://github.com/search?q=owner%3Anderousseaux+%23script&type=repositories): Useful scripts.
 - 📁 [Templates](https://github.com/search?q=owner%3Anderousseaux+%23template&type=repositories) : Templates for projects, with cookiecutter.
 - ⚙️ [Personal-configs](https://github.com/search?q=owner%3Anderousseaux+%23personal-config&type=repositories) : Config files, like my vimrc, my zshrc, my tmux.conf, etc.
