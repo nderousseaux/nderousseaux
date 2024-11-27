@@ -20,7 +20,7 @@ I'm a freelance developer based at Strasbourg in France. I'm a fullstack develop
 - 📁 [Templates](https://github.com/search?q=owner%3Anderousseaux+%23template&type=repositories) : Templates for projects, with cookiecutter.
 - ⚙️ [Personal-configs](https://github.com/search?q=owner%3Anderousseaux+%23personal-config&type=repositories) : Config files, like my vimrc, my zshrc, my tmux.conf, etc.
 - 📚 [Resources](https://github.com/search?q=owner%3Anderousseaux+%23resource&type=repositories) : Some resources.
-- 🗄️ [Archives](https://github.com/search?q=owner%3Anderousseaux+%23archive&type=repositories) : Old projects which are not mine, but I want to keep them.
+- 🗄️ [Archives](https://github.com/search?q=owner%3Anderousseaux+%23archive&type=repositories) : Old projects which are not mine, but I want to keep.
 
 ### Fun fact 
 turtles are chelonians 🐢
