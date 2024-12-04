@@ -12,7 +12,7 @@ I'm a freelance developer based at Strasbourg in France. I'm a fullstack develop
 
 ### All repos, by category 📚
 - 💼 [Jobs](https://github.com/search?q=owner%3Anderousseaux+%23work&type=repositories) : Repositories for my job, a lot of them are private.
-- 🎓 [Educations](https://github.com/search?q=owner%3Anderousseaux+%23education&type=repositories) : Work for my education like tps, tds, etc.
+- 🎓 [Education](https://github.com/search?q=owner%3Anderousseaux+%23education&type=repositories) : Work for my education like tps, tds, etc.
 - 📽️ [Projects](https://github.com/search?q=owner%3Anderousseaux+%23project&type=repositories) : Personal project, without affiliation with my job or my education.
 - 🔬 [Experiments](https://github.com/search?q=owner%3Anderousseaux+%23experiment&type=repositories) : Some experiments I did.
 - 🏆 [Challenges](https://github.com/search?q=owner%3Anderousseaux+%23challenge&type=repositories) : Challenges I tried to overcome.
