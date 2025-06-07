@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a freelance developer based at Strasbourg in France. I'm a fullstack developer, I love to work with Django, Pyramid and VueJs. I'm also a big fan of AI and machine learning, I'm currently learning about machine learning for web with ml5.js.
+I'm a freelance developer, and a System ingeneer based at Strasbourg in France. I'm a fullstack developer, I love to work with Django, Pyramid and VueJs. I'm also a big fan of AI and machine learning, I'm currently learning about machine learning for web with ml5.js.
 
 ### My bests skills 🛠
 -  **Devops :** Docker, kubernetes, Nomad/Consul, CI/CD, Grafana/Prometheus.
